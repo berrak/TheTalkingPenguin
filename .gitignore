@@ -1,5 +1,12 @@
+# no project files
 .vscode
 
+# pretty code
 _clang-format
 
+# non-public
 mynotes/
+
+# no binary files
+*.bin
+
