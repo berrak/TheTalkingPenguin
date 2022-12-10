@@ -1,4 +1,4 @@
-[![The Talking Penguin](./images/penguin.jpg)](https://youtu.be/JhEXQm9r8Hk)
+[![The Talking Penguin](./images/penguin.jpg)]https://youtu.be/-NGkk2qvLvI)
 
 [![GitHub license](https://img.shields.io/github/license/berrak/TheTalkingPenguin.svg?logo=gnu&logoColor=ffffff)](https://github.com/berrak/TheTalkingPenguin/blob/master/LICENSE)
 [![GitHub version](https://img.shields.io/github/release/berrak/TheTalkingPenguin.svg?logo=github&logoColor=ffffff)](https://github.com/berrak/TheTalkingPenguin/releases/latest)
